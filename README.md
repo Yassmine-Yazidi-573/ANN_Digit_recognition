@@ -71,7 +71,7 @@ Test Accuracy ≈ 97.4%
 
 ## ✍️ Test on Your Own Handwriting
 
-- Load your custom image (e.g., `"three_digit.png"`) 
+- Load your custom image (e.g., `"written_three_by_me.jpeg"`) 
 - Preprocess:
   - Convert to grayscale
   - Resize to 28x28

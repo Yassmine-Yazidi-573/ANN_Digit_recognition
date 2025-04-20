@@ -95,3 +95,9 @@ Select a specific digit index (e.g., `124`) to visualize and test prediction.
 Your model can now:
 - Classify digits from the MNIST dataset with ~97% accuracy.
 - Predict digits drawn by you if properly preprocessed.
+---
+## 👩‍💻 Author
+
+**Yassmine Yazidi**  
+Business Student & Data Enthusiast  
+Tunisia 🇹🇳
